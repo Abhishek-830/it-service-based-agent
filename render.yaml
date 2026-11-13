@@ -1,0 +1,35 @@
+
+services:
+  - type: web
+    name: it-service-desk-agent
+    runtime: python
+    plan: free
+
+    buildCommand: pip install -r requirements.txt
+
+    startCommand: uvicorn src.api.main:app --host 0.0.0.0 --port $PORT
+
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.5"
+
+      - key: APP_NAME
+        value: "IT Service Desk AI Agent"
+
+      - key: APP_ENV
+        value: "production"
+
+      - key: DEBUG
+        value: "False"
+
+      - key: LOG_LEVEL
+        value: "INFO"
+
+      - key: DATABASE_URL
+        value: "sqlite:///./data/service_desk.db"
+
+      - key: GROQ_API_KEY
+        sync: false
+
+      - key: GOOGLE_API_KEY
+        sync: false
