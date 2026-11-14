@@ -17,8 +17,7 @@ __pycache__/
 logs/
 *.log
 
-# Generated Vector Database
-artifacts/vector_store/
+
 
 # OS Files
 .DS_Store
