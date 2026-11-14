@@ -1,5 +1,6 @@
 
 import sys
+import os
 import asyncio
 import logging
 from contextlib import asynccontextmanager
@@ -15,8 +16,10 @@ logger = logging.getLogger(__name__)
 # MCP Server Configuration
 server_params = StdioServerParameters(
     command=sys.executable,
-    args=["-m", "src.mcp_server.server"]
+    args=["-m", "src.mcp_server.server"],
+    env=os.environ.copy()
 )
+
 
 # Connection timeout
 CONNECTION_TIMEOUT = 20
