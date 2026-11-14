@@ -1,0 +1,72 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 1,
+        "chunk_index": 1,
+        "text": "IT Service Desk – Support Knowledge Base \n1. Wi-Fi Connectivity Issues \nProblem: Laptop cannot connect to office Wi-Fi. \nTroubleshooting Steps: \n1. Ensure Wi-Fi is enabled on the laptop. \n2. Turn off Airplane Mode. \n3. Verify that the correct office Wi-Fi network is selected. \n4. Forget the network and reconnect using the correct password. \n5. Restart the laptop. \n6. Check whether other devices can connect to the same network. \n7. If the issue continues, contact the Network Support Team. \nEscala"
+    },
+    {
+        "chunk_id": 2,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 1,
+        "chunk_index": 2,
+        "text": "n connect to the same network. \n7. If the issue continues, contact the Network Support Team. \nEscalation: Escalate to Network Support if multiple employees are affected or connectivity remains \nunavailable after basic troubleshooting. \n2. Password Reset and Login Issues \nProblem: Employee cannot log in or has forgotten their password. \nTroubleshooting Steps: \n1. Verify the username and email address. \n2. Check Caps Lock and keyboard language. \n3. Use the organization's official password reset po"
+    },
+    {
+        "chunk_id": 3,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 1,
+        "chunk_index": 3,
+        "text": "ss. \n2. Check Caps Lock and keyboard language. \n3. Use the organization's official password reset portal. \n4. Follow the identity verification process. \n5. Never share passwords or OTPs with anyone. \nEscalation: Contact the IT Security Team if the account is locked, suspicious login activity is detected, \nor password reset fails. \n3. VPN Connection Problems \nProblem: Employee cannot connect to the company VPN. \nTroubleshooting Steps: \n1. Confirm that the internet connection is working. \n2. Verif"
+    },
+    {
+        "chunk_id": 4,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 1,
+        "chunk_index": 4,
+        "text": "company VPN. \nTroubleshooting Steps: \n1. Confirm that the internet connection is working. \n2. Verify the VPN server address. \n3. Check username and authentication details. \n4. Restart the VPN application. \n5. Disconnect and reconnect to the VPN. \n6. Check whether the VPN client requires an update."
+    },
+    {
+        "chunk_id": 5,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 2,
+        "chunk_index": 1,
+        "text": "Escalation: Escalate to Network Support if VPN connectivity continues to fail. \n4. Printer Not Working \nProblem: Office printer is not printing documents. \nTroubleshooting Steps: \n1. Check printer power and cable connections. \n2. Verify paper and toner availability. \n3. Check for paper jams. \n4. Confirm that the correct printer is selected. \n5. Clear stuck jobs from the print queue. \n6. Restart the printer and retry printing. \nEscalation: Contact Hardware Support if the printer shows hardware er"
+    },
+    {
+        "chunk_id": 6,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 2,
+        "chunk_index": 2,
+        "text": "e printer and retry printing. \nEscalation: Contact Hardware Support if the printer shows hardware errors or remains unavailable. \n5. Laptop Performance Issues \nProblem: Laptop is running slowly or freezing frequently. \nTroubleshooting Steps: \n1. Restart the laptop. \n2. Close unnecessary applications. \n3. Check available disk space. \n4. Open Task Manager and check CPU and memory usage. \n5. Install approved system updates. \n6. Run the organization's approved antivirus scan. \nEscalation: Contact Ha"
+    },
+    {
+        "chunk_id": 7,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 2,
+        "chunk_index": 3,
+        "text": "approved system updates. \n6. Run the organization's approved antivirus scan. \nEscalation: Contact Hardware Support if the laptop continues freezing or shows hardware errors. \n6. Support Ticket Priority Guidelines \nHigh Priority: \n• Critical business application unavailable. \n• Multiple employees unable to access essential services. \n• Security incident or suspected account compromise. \nMedium Priority: \n• Individual employee unable to use an important application. \n• VPN or printer issues affect"
+    },
+    {
+        "chunk_id": 8,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 2,
+        "chunk_index": 4,
+        "text": "rity: \n• Individual employee unable to use an important application. \n• VPN or printer issues affecting regular work. \n• Repeated laptop performance problems. \nLow Priority:"
+    },
+    {
+        "chunk_id": 9,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 3,
+        "chunk_index": 1,
+        "text": "• General IT questions. \n• Minor software configuration requests. \n• Non-urgent access or setup requests. \n7. Ticket Status Definitions \n• Open: Ticket has been created and is awaiting action. \n• In Progress: Support team is investigating the issue. \n• Resolved: The reported issue has been fixed. \n• Escalated: The issue requires assistance from a higher-level support team. \n8. Security Guidelines \n1. Never ask employees to share their passwords or OTPs. \n2. Never store confidential credentials i"
+    },
+    {
+        "chunk_id": 10,
+        "source": "it_support_knowledge.pdf",
+        "page_number": 3,
+        "chunk_index": 2,
+        "text": "1. Never ask employees to share their passwords or OTPs. \n2. Never store confidential credentials in support tickets. \n3. Verify employee identity before sensitive account changes. \n4. Report suspected phishing or security incidents immediately. \n5. Follow company IT security policies during troubleshooting."
+    }
+]
